@@ -6,7 +6,7 @@
     <artifactId>dynamic-flows-connector</artifactId>
     <version>1.1.0-SNAPSHOT</version>
     <packaging>mule-module</packaging>
-    <name>Mule dynamic flows Connector</name>
+    <name>Mule Dynamic Flows Connector</name>
 
     <properties>
         <category>Community</category>
